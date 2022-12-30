@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package ping;
+option go_package = "https://github.com/bemillant/dsExamPeer;ping";
+
+
+service Ping {
+    rpc Token (Pass) returns (Acknowledgement) {}
+}
+
+message Pass {
+    int32 id = 1;
+    string message = 2; 
+}
+
+message Acknowledgement {
+    string message = 1;
+}
