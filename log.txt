@@ -1,0 +1,38 @@
+2022/12/30 15:16:27 client with ID: 5003 now listening on port 5003
+2022/12/30 15:16:27 client with ID: 5003 is trying to dial: 5001
+2022/12/30 15:16:27 client with ID: 5003 --- Succesfully dialed to 5001
+2022/12/30 15:16:27 client with ID: 5003 is trying to dial: 5002
+2022/12/30 15:16:27 client with ID: 5003 --- Succesfully dialed to 5002
+2022/12/30 15:16:28 client with ID: 5001 --- Succesfully dialed to 5003
+2022/12/30 15:16:30 client with ID 5003 does not have token, so cannot access critical section
+2022/12/30 15:16:31 client with ID: 5002 --- Succesfully dialed to 5003
+2022/12/30 15:16:33 client with ID 5003 does not have token, so cannot access critical section
+2022/12/30 15:16:35 client with ID 5002 does not have token, so cannot access critical section
+2022/12/30 15:16:37 client with ID 5002 does not have token, so cannot access critical section
+2022/12/30 15:16:37 client with id 5001 has not made a request for CS, so access cannot be given
+2022/12/30 15:16:38 client with id 5001 has not made a request for CS, so access cannot be given
+2022/12/30 15:16:38 client with id 5001 has not made a request for CS, so access cannot be given
+2022/12/30 15:16:39 peer with Id: 5003 now request to enter the Critical section 
+2022/12/30 15:16:40 client with id 5001 has not made a request for CS, so access cannot be given
+2022/12/30 15:16:42 client with ID 5002 does not have token, so cannot access critical section
+2022/12/30 15:16:46 client with ID 5002 does not have token, so cannot access critical section
+2022/12/30 15:16:48 client with id 5001 has not made a request for CS, so access cannot be given
+2022/12/30 15:16:51 client with ID 5003 does not have token, so cannot access critical section
+2022/12/30 15:16:55 peer with Id: 5003 now request to enter the Critical section 
+2022/12/30 15:16:56 client with ID 5003 does not have token, so cannot access critical section
+2022/12/30 15:16:57 peer with Id: 5002 now request to enter the Critical section 
+2022/12/30 15:17:01 peer with Id: 5003 now request to enter the Critical section 
+2022/12/30 15:17:02 client with ID 5003 does not have token, so cannot access critical section
+2022/12/30 15:17:03 token has been received from 5001
+2022/12/30 15:17:03 Token succesfully passed from client 5001 to client at port 5002 with message: Token has succesfully been passed
+2022/12/30 15:17:13 succesfully wrote skrrt
+ to critical section.
+2022/12/30 15:17:13 client with ID 5002 no longer wants access to critical section
+2022/12/30 15:17:18 peer with Id: 5003 now request to enter the Critical section 
+2022/12/30 15:17:19 client with ID 5001 does not have token, so cannot access critical section
+2022/12/30 15:17:19 peer with Id: 5001 now request to enter the Critical section 
+2022/12/30 15:17:20 peer with Id: 5002 now request to enter the Critical section 
+2022/12/30 15:17:22 succesfully wrote skrrt
+ to critical section.
+2022/12/30 15:17:22 client with ID 5002 no longer wants access to critical section
+2022/12/30 15:17:28 client with ID 5003 does not have token, so cannot access critical section
